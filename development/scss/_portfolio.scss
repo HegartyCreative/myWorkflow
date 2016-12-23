@@ -1,0 +1,131 @@
+
+body{
+  padding: 30px;
+}
+
+.wrapper{
+  max-width: 800px;
+  width: 90%;
+  margin: 30px auto;
+  font-family: 'Raleway', sans-serif;
+  font-weight: normal;
+}
+
+a#portfolio{
+  display: inline-block;
+  // opacity: 0;
+}
+
+#portfolioAd{
+  width: 800px;
+  height: 550px;
+  position: relative;
+  overflow: hidden;
+}
+
+.myPortfolioAd_img{
+  position: absolute;
+  background: url(../images/graphics2.png) no-repeat 0px 0px;
+}
+
+#bkg1{
+  width: 800px;
+  height: 550px;
+  background-position: 0px 0px;
+  top: 0px;
+  left: 0px;
+  z-index: 50;
+}
+
+
+#one{
+  width: 421px;
+  height: 209px;
+  background-position: -190px -576px;
+  top: 132px;
+  left: 238px;
+  z-index: -200;
+}
+
+#one{
+  width: 421px;
+  height: 209px;
+  background-position: -190px -576px;
+  top: 132px;
+  left: 238px;
+  z-index: -200;
+}
+
+#two{
+  width: 421px;
+  height: 209px;
+  background-position: -190px -813px;
+  top: 132px;
+  left: 238px;
+  z-index: -200;
+}
+
+#three{
+  width: 421px;
+  height: 209px;
+  background-position: -190px -1052px;
+  top: 132px;
+  left: 238px;
+  z-index: -200;
+}
+
+#four{
+  width: 421px;
+  height: 209px;
+  background-position: -190px -1311px;
+  top: 132px;
+  left: 238px;
+  z-index: -200;
+}
+
+#five{
+  width: 421px;
+  height: 209px;
+  background-position: -190px -1550px;
+  top: 132px;
+  left: 238px;
+  z-index: -200;
+}
+
+#six{
+  width: 421px;
+  height: 209px;
+  background-position: -190px -1811px;
+  top: 132px;
+  left: 238px;
+  z-index: -200;
+}
+
+#seven{
+  width: 421px;
+  height: 209px;
+  background-position: -190px -2068px;
+  top: 132px;
+  left: 238px;
+  z-index: -200;
+}
+
+#eight{
+  width: 421px;
+  height: 209px;
+  background-position: -190px -2327px;
+  top: 132px;
+  left: 238px;
+  z-index: -200;
+}
+
+#eyes{
+  position: absolute;
+  top: 50px;
+  left: 97px;
+  z-index: 300;
+
+}
+
+
+
